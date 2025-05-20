@@ -1,1 +1,1 @@
-FROM centos:8
+FROM rhel:9
