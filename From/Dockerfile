@@ -1,1 +1,1 @@
-FROM rhel:9
+FROM RHEL:9
