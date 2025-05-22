@@ -1,2 +1,2 @@
 FROM alpine
-COPY https://www.amazon.com /tmp/
+COPY  curl https://www.amazon.com /tmp/
