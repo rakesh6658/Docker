@@ -6,3 +6,4 @@ ENV COURSE=${COURSE}
 ENV TRAINER=${TRAINER}
 RUN echo "Course is: ${COURSE}, trainer is: ${TRAINER}"
 RUN echo "welcome to version ${version}"
+RUN echo "welcome to hyd" > rakesh.txt
